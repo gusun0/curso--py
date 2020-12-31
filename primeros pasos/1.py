@@ -1,0 +1,5 @@
+print(type("Hola Mundo"))
+print(type([10, 1, 200]))
+print(type(-30))
+print(type(1.0))
+print(type(["Pedro", "Jorge"]))
